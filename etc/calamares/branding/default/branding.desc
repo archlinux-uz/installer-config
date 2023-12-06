@@ -128,10 +128,10 @@ strings:
     versionedName:       Arch Linux 
     shortVersionedName:  Arch Linux
     bootloaderEntryName: Arch Linux
-    #productUrl:          https://Arcofly-linux.uz/
-    #supportUrl:          https://github.com/Arcofly/Arcofly-linux/wiki
-    #knownIssuesUrl:      https://github.com/Arcofly/Arcofly-linux/issues
-    #releaseNotesUrl:     https://Arcofly.uz/news/
+    productUrl:          https://memfispro.uz/
+    #supportUrl:          https://github.com/archlinux-uz/custom/wiki
+    #knownIssuesUrl:      https://github.com/archlinux-uz/custom/issues
+    #releaseNotesUrl:     https://memfispro.uz/news/
     #donateUrl:           https://kde.org/community/donations/index.php
 
 # These images are loaded from the branding module directory.
